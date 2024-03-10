@@ -1,6 +1,6 @@
 public class Building {
 
-    protected String name = "<Name Unknown>";
+    protected String name = "<Name Unknown>"; //"protected" means I can see this, my child classes can see this, but no one else can.
     protected String address = "<Address Unknown>";
     protected int nFloors = 1;
 
