@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-import javax.xml.transform.Source;
-
 /* This is a stub for the House class */
 public class House extends Building {
 
@@ -11,7 +9,7 @@ public class House extends Building {
 
   public House(String name, String address, int nFloors, boolean hasElevator, boolean hasDiningRoom) {
     super(name, address, nFloors);
-    this.hasElevator= hasElevator;
+    this.hasElevator = hasElevator;
     this.hasDiningRoom = hasDiningRoom;
     this.residents = new ArrayList<String>();
   }
