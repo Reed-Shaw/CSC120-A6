@@ -1,4 +1,6 @@
 Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Inheritance` affects your programming?
+I really like it! This is a concept that makes sense to me easily I think. I like the way you can start with building blocks and specialize as needed. I think I would have a hard time deciding what to make as part of my parent funciton and what to leave for later though. Sometimes I can't tell what everything has in common until I've done all my code. ("But Reed", I hear you say, "this is why you should sketch out your code before typing it." But I wont. The thoughts don't think in that order. I appreciate the sentiment though.)
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+Definitely using the methods that were apready built into ArrayLists and Hashtables was very helpful. I had a really hard time working with the hashtables though beucase I'd never encountered them before. https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html was very helpful for this problem but also I couldn't figure out how one would ask for keys with a certain kind of value or get just one key or just one value if you didn't already know what it was. 

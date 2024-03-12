@@ -73,18 +73,15 @@ public class Library extends Building {
     }
   }
 
+  /**
+   * Prints the collection and titles' availability in an easy-to-read way.
+   * This is not good but thanks for looking at it anyway. 
+   */
   public void printCollection(){
-    
-    //int i = 0;
-    //if(this.collection.size() > 0){
-      //while(i > this.collection.size()){
-        System.out.println(this.collection.keySet());
-        //i++;
-      //}
-    //}
-    //else{
-      //System.out.println("There are no books in this collection");
-    //};
+    System.out.println("The titles in the collection are: ");
+    System.out.println(this.collection.keySet());
+    System.out.println("Girl match it yourself I can't figure out the hashtable methods: ");
+    System.out.println(this.collection.values());
   }
 
 
